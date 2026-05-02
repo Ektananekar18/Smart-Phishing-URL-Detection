@@ -1,0 +1,8 @@
+
+Smart Phishing URL Detector
+
+1.cd Desktop
+2.cd "Smart Phishing URL Detector"
+3.python app.py
+
+http://127.0.0.1:5000
